@@ -46,7 +46,8 @@ Developed by: RegisterNumber:25004301
 **RTL realization**
 !
 **Output:**
-![alt text](<Screenshot 2025-11-20 141414-1.png>)
+<img width="752" height="802" alt="Screenshot 2025-11-20 141414" src="https://github.com/user-attachments/assets/bc622aff-551b-484a-95ad-b3c7eee6d152" />
+
 **RTL**
 
 **Timing Diagram**
