@@ -44,7 +44,8 @@ Developed by: RegisterNumber:25004301
 
 
 **RTL realization**
-!
+<img width="686" height="524" alt="Screenshot 2025-11-27 130434" src="https://github.com/user-attachments/assets/d5749c19-60d6-4953-8572-9b8a9f7a8885" />
+
 **Output:**
 <img width="752" height="802" alt="Screenshot 2025-11-20 141414" src="https://github.com/user-attachments/assets/bc622aff-551b-484a-95ad-b3c7eee6d152" />
 
